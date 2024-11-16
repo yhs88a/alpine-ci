@@ -6,7 +6,7 @@
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 ![Licence: MIT](https://img.shields.io/github/license/yhs88a/alpine-ci)
 
-alpine-ci base image.
+Alpine-ci base image.
 
 [https://hub.docker.com/r/yhs88a/alpine-ci](https://hub.docker.com/r/yhs88a/alpine-ci)
 
