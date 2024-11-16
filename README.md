@@ -1,10 +1,10 @@
 # alpine-ci
 
-![Build status](https://github.com/yhs88a/alpine-ci/actions/workflows/build-push.yml/badge.svg)
-![Docker Image Size (latest)](https://img.shields.io/docker/image-size/yhs88a/alpine-ci/latest)
-![Docker Pulls](https://img.shields.io/docker/pulls/yhs88a/alpine-ci)
+[![Build status](https://github.com/yhs88a/alpine-ci/actions/workflows/build-push.yml/badge.svg)](https://github.com/yhs88a/alpine-ci/actions/workflows/build-push.yml)
+[![Docker Image Size (latest)](https://img.shields.io/docker/image-size/yhs88a/alpine-ci/latest)](https://hub.docker.com/r/yhs88a/alpine-ci)
+[![Docker Pulls](https://img.shields.io/docker/pulls/yhs88a/alpine-ci)](https://hub.docker.com/r/yhs88a/alpine-ci)
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
-![Licence: MIT](https://img.shields.io/github/license/yhs88a/alpine-ci)
+[![Licence: MIT](https://img.shields.io/github/license/yhs88a/alpine-ci)](https://github.com/yhs88a/alpine-ci/blob/main/LICENSE)
 
 Alpine-ci base image.
 

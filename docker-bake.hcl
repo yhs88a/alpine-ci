@@ -3,7 +3,7 @@ variable "OWNER" {
 }
 
 variable "GROUP" {
-  default = "ci"
+  default = "base"
 }
 
 variable "FILE" {
@@ -55,6 +55,8 @@ target "push" {
   ]
   tags = [
     "${OWNER}/${FILE}",
-    "${OWNER}/${FILE}:${TAG}"
+    "${OWNER}/${FILE}:${TAG}",
+    "public.ecr.aws/${OWNER}/${GROUP}/${FILE}",
+    "public.ecr.aws/${OWNER}/${GROUP}/${FILE}:${TAG}"
   ]
 }
